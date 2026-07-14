@@ -1,4 +1,4 @@
-# 🍬 Sweet Shop Management System
+#  Sweet Shop Management System
 
 A simple and user-friendly **Sweet Shop Inventory System** built using **Python**, **Flask**, **SQLite**, and developed using **Test-Driven Development (TDD)** principles with `pytest`.
 
