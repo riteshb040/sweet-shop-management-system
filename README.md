@@ -11,7 +11,7 @@ A simple and user-friendly **Sweet Shop Inventory System** built using **Python*
 |  Add Sweet     | Add new sweets with unique ID, name, category, price, and quantity         |
 | Delete Sweet  | Remove a sweet from the database                                            |
 |  View All      | Display all sweets in a well-structured table                               |
-| 🔍 Search        | Filter sweets by **name**, **category**, or **price range**                |
+|  Search        | Filter sweets by **name**, **category**, or **price range**                |
 | ⬆️ Sort          | Sort sweets by **name**, **category**, **price**, or **quantity**          |
 | 🛒 Purchase      | Purchase sweets (quantity reduces automatically; prevents stock underflow) |
 | 🔁 Restock       | Restock sweets (increases quantity)                                         |
