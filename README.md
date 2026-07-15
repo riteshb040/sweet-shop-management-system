@@ -26,7 +26,7 @@ A simple and user-friendly **Sweet Shop Inventory System** built using **Python*
 - Full test suite included (`pytest`).
 - All core functions are covered.
 
-### 🧪 Run Tests
+###  Run Tests
 ```
 pytest test_sweetshop.py > test_report.txt
 ```
