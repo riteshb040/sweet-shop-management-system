@@ -14,7 +14,7 @@ A simple and user-friendly **Sweet Shop Inventory System** built using **Python*
 |  Search        | Filter sweets by **name**, **category**, or **price range**                |
 |  Sort          | Sort sweets by **name**, **category**, **price**, or **quantity**          |
 |  Purchase      | Purchase sweets (quantity reduces automatically; prevents stock underflow) |
-| 🔁 Restock       | Restock sweets (increases quantity)                                         |
+|  Restock       | Restock sweets (increases quantity)                                         |
 | 🎨 Frontend      | Simple Bootstrap 5-based web interface using Flask                          |
 
 ---
