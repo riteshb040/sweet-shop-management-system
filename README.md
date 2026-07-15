@@ -4,7 +4,7 @@ A simple and user-friendly **Sweet Shop Inventory System** built using **Python*
 
 ---
 
-## ✨ Features Overview
+## Features Overview
 
 | Feature         | Description                                                                 |
 |----------------|-----------------------------------------------------------------------------|
