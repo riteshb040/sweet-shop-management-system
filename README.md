@@ -33,7 +33,7 @@ pytest test_sweetshop.py > test_report.txt
 ---
 
 
-# 💻 Technologies Used
+#  Technologies Used
 
 - Python 3
 
