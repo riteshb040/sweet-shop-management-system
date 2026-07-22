@@ -19,7 +19,7 @@ A simple and user-friendly **Sweet Shop Inventory System** built using **Python*
 
 ---
 
-## ✅ Test-Driven Development (TDD)
+##  Test-Driven Development (TDD)
 
 - Developed using **TDD principles**.
 - Test cases written **before implementing functionality**.
